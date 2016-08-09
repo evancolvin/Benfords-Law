@@ -11,7 +11,11 @@ I included an example, running the methods over the milk data set which is from 
 
 Here's a picture of what the output currently looks like:
 
+<img align="middle" src = https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png">
+
+<!---
 <div style = "text-align:center"><img src = "https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png" /></div>
+--->
 <!---
 ![alt text](https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png)
 --->
