@@ -1,4 +1,3 @@
-## README.md
 ### Benfords-Law Repo
 
 This is a repo for a project written in Python 2.7 that compares empirical data to Benford's Law.
@@ -11,4 +10,5 @@ Currently the library can take in a matrix of data and check the distribution of
 I included an example, running the methods over the milk data set which is from Regression Analysis By Example, by Chatterjee and Hadi. The data is available [here](http://www1.aucegypt.edu/faculty/hadi/RABE5/Data5/P004.txt)
 
 Here's a picture of what the output currently looks like:
+
 ![alt text](https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png)
