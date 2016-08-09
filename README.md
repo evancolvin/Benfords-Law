@@ -11,14 +11,9 @@ I included an example, running the methods over the milk data set which is from 
 
 Here's a picture of what the output currently looks like:
 
-<img align="middle" src = https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png">
 
-<!---
-<div style = "text-align:center"><img src = "https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png" /></div>
---->
-<!---
 ![alt text](https://github.com/evancolvin/Benfords-Law/blob/master/benford_example.png)
---->
+
 Where the curve shows the (smoothed) version of what we expect to see under Benfords Law and the bars are what we see in the actual data.
 
 You can read more about the uses of Benford's Law [here](http://www.journalofaccountancy.com/issues/1999/may/nigrini.html), [and here](http://mathworld.wolfram.com/BenfordsLaw.html).
